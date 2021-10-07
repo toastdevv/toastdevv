@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gigasit
+- 👀 I’m interested in coding games and front ends
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on basic projects
+- 📫 How to reach me: Gigasit#7212 on Discord
