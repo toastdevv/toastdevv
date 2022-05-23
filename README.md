@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YLTN
-- 👀 I’m interested in coding games and front ends
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in tech and coding...stuff
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me: Gigasit#7212 on Discord
