@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YLTN
 - 👀 I’m interested in web development.
-- 🌱 I’m currently on hiatus :)
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently working on a social media app
+- 💞️ I’m looking to collaborate on full stack web projects
 - ✔ I'm a full stack web developer
 - 📫 How to reach me: Gigasit#7212 on Discord
