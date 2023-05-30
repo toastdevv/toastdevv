@@ -1,6 +1,26 @@
-- 👋 Hi, I’m @YLTN
-- 👀 I’m interested in web development.
-- 🌱 I’m currently working on a social media app
-- 💞️ I’m looking to collaborate on full stack web projects
-- ✔ I'm a full stack web developer
-- 📫 How to reach me: Gigasit#7212 on Discord
+Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__. 😁
+# Stack
+## Front end
+* HTML
+* CSS
+* JavaScript
+## Back end
+* MongoDB
+* Express.js
+* Passport.js
+* Socket.io
+* Node.js
+* PostgreSQL (cannot implement with back end yet)
+# Interests
+* Web Development
+* Artificial Intelligence
+* Cybersecurity
+* Mathematics
+* Robotics
+* Art
+# Links
+Twitter: https://www.twitter.com/YourLocalTN
+Stack Overflow: https://stackoverflow.com/users/19302208/rayane-benamre
+Discord: Gigasit#7212
+
+I hope you have a great day! ✌️
