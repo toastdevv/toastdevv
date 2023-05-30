@@ -10,7 +10,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__. 😁
 * Passport.js
 * Socket.io
 * Node.js
-* PostgreSQL (cannot implement with back end yet)
+* PostgreSQL
 # Interests
 * Web Development
 * Artificial Intelligence
