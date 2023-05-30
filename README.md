@@ -19,8 +19,8 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__. 😁
 * Robotics
 * Art
 # Links
-Twitter: https://www.twitter.com/YourLocalTN
-Stack Overflow: https://stackoverflow.com/users/19302208/rayane-benamre
-Discord: Gigasit#7212
+* Twitter: https://www.twitter.com/YourLocalTN
+* Stack Overflow: https://stackoverflow.com/users/19302208/rayane-benamre
+* Discord: Gigasit#7212
 
 I hope you have a great day! ✌️
