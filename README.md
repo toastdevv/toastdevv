@@ -4,6 +4,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__. 😁
 * HTML
 * CSS
 * JavaScript
+* React
 ## Back end
 * MongoDB
 * Express.js
