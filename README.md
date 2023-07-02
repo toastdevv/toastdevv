@@ -28,6 +28,6 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discors
 * Twitter: https://www.twitter.com/YourLocalTN
 * Stack Overflow: https://stackoverflow.com/users/19302208/rayane-benamre
 * Instagram: https://www.instagram.com/yourlocaltn/
-* Discord: prince_toast
+* Discord: princetoast.
 
 I hope you have a great day! ✌️
