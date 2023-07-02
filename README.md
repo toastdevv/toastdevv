@@ -1,4 +1,4 @@
-Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discors bot developer__. 😁
+Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord bot developer__. 😁
 # Stack
 ## Front end
 * HTML
