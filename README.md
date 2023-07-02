@@ -15,6 +15,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * Socket.io
 * Node.js
 * PostgreSQL
+* MySQL
 ## Discord Bot Development
 * Discord.js
 # Interests
