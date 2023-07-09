@@ -9,11 +9,13 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * TailwindCSS
 ## Back end
 * MongoDB
-* Mongoose.js
+* Mongoose (ORM)
+* tRPC
 * Express.js
 * Passport.js
 * Socket.io
 * Node.js
+* Prisma (ORM)
 * PostgreSQL
 * MySQL
 ## Discord Bot Development
