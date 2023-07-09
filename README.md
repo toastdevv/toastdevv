@@ -18,6 +18,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * Prisma (ORM)
 * PostgreSQL
 * MySQL
+* PlanetScale (MySQL)
 ## Discord Bot Development
 * Discord.js
 # Interests
