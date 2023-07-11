@@ -7,6 +7,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * React.js
 * Next.js
 * TailwindCSS
+* Chakra UI
 ## Back end
 * MongoDB
 * Mongoose (ORM)
