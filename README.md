@@ -29,6 +29,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * Mathematics
 * Robotics
 * Art
+* Astronomy
 # Links
 * Twitter: https://www.twitter.com/YourLocalTN
 * Stack Overflow: https://stackoverflow.com/users/19302208/rayane-benamre
