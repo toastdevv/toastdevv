@@ -9,15 +9,15 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * TailwindCSS
 * Chakra UI
 ## Back end
-* MongoDB
-* Mongoose (ORM)
+* Node.js
 * tRPC
 * Express.js
 * Passport.js
 * Socket.io
-* Node.js
 * Prisma (ORM)
 * Sequelize (ORM)
+* Mongoose (ORM)
+* MongoDB
 * PostgreSQL
 * MySQL
 * PlanetScale (MySQL)
