@@ -17,6 +17,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord
 * Socket.io
 * Node.js
 * Prisma (ORM)
+* Sequelize (ORM)
 * PostgreSQL
 * MySQL
 * PlanetScale (MySQL)
