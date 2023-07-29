@@ -14,8 +14,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__, __mobile app d
 * tRPC
 * GraphQL
 * Express.js
-* Passport.js
-* Socket.io
+* WebSockets
 * Prisma (ORM)
 * Sequelize (ORM)
 * Mongoose (ORM)
