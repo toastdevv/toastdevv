@@ -1,16 +1,18 @@
-Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__ and a __discord bot developer__. 😁
+Hey! 👋 I'm Rayane Benamre, I'm a __full stack web developer__, __mobile app developer__ and __discord bot developer__. 😁
 # Stack
 ## Front end
 * HTML
 * CSS
 * JavaScript/TypeScript
 * React.js
+* React Native
 * Next.js
-* TailwindCSS
+* TailwindCSS/Nativewind
 * Chakra UI
 ## Back end
 * Node.js
 * tRPC
+* GraphQL
 * Express.js
 * Passport.js
 * Socket.io
