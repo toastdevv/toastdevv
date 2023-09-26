@@ -1,5 +1,4 @@
 Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__ and a __mobile app developer__. 😁
-# Stack
 ## Front end
 * HTML
 * CSS
@@ -27,7 +26,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__ and a __mobile 
 * React Native/Expo
 * Tamagui
 * Nativewind
-# Interests
+## Interests
 * Computer Science
 * Web Development
 * Artificial Intelligence
@@ -36,7 +35,7 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__ and a __mobile 
 * Robotics
 * Astronomy
 * Philosophy
-# Social Media
+## Social Media
 * [Mastodon](https://mastodon.social/@rayaneb)
 * [Stack Overflow](https://stackoverflow.com/users/19302208/rayane-benamre)
 * Discord: princetoast.
