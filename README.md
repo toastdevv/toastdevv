@@ -3,18 +3,21 @@ Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__ and a __mobile 
 * HTML
 * CSS
 * JavaScript/TypeScript
-* React.js
+* React
 * React Native
-* Next.js
-* TailwindCSS/Nativewind
+* NextJS
+* Tailwind CSS
 * Chakra UI
+* Mantine UI
+* Radix UI
 ## Back end
-* Node.js
+* NodeJS
 * Bun
 * Deno
 * tRPC
 * GraphQL
-* Express.js
+* ExpressJS
+* ElysiaJS
 * WebSockets
 * Prisma (ORM)
 * Sequelize (ORM)
