@@ -1,4 +1,4 @@
-Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__ and a __mobile app developer__. 😁
+Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__. 😁
 ## Front end
 * HTML
 * CSS
