@@ -1,16 +1,16 @@
-Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__. 😁
+# Greetings! 👋 I'm Rayane Benamre, a dedicated **full-stack web developer**. 
 
-I specialize in various JavaScript frameworks and technologies including the MERN stack, NextJS, SvelteKit and many more libraries. I prefer TailwindCSS to style my components and the Prisma ORM to handle my database queries.
+🚀 Specializing in technologies like the MERN stack, NextJS, and SvelteKit, I focus on crafting efficient solutions. For styling, I prefer using TailwindCSS, and I employ the Prisma ORM for robust database queries.
 
-I also do Discord bot development and mobile app development from time to time.
+🤖 Beyond web development, I also engage in Discord bot development and occasional mobile app projects.
 
-I'm currently learning the Rust programming language. Pretty solid stuff.
+🌱 Currently, I am in the process of mastering the Rust programming language.
 
-You can contact me on Discord or through my email address at `benamrerayane@proton.me`.
+📧 Feel free to reach out on Discord or via email at `benamrerayane@proton.me`.
 
-## Social Media
+## 🌐 Social Media & Professional Profiles
 * [Mastodon](https://mastodon.social/@rayaneb)
 * [Stack Overflow](https://stackoverflow.com/users/19302208/rayane-benamre)
 * Discord: toastdevv
 
-I hope you have a great day!
+Thank you for visiting! 👨‍💻
