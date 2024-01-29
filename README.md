@@ -1,6 +1,7 @@
 Hey! 👋 I'm Rayane Benamre, I'm a __full-stack web developer__. 😁
 
 I specialize in various JavaScript frameworks and technologies including the MERN stack, NextJS, SvelteKit and many more libraries. I prefer TailwindCSS to style my components and the Prisma ORM to handle my database queries.
+
 I also do Discord bot development and mobile app development from time to time.
 
 I'm currently learning the Rust programming language. Pretty solid stuff.
