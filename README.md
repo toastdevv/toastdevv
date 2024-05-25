@@ -6,7 +6,7 @@
 
 🌱 Currently, I am in the process of mastering the Rust programming language.
 
-📧 Feel free to reach out on Discord or via email at `benamrerayane@proton.me`.
+📧 Feel free to reach out on Discord (see below!) or via email at `benamrerayane@proton.me`.
 
 ## 🌐 Social Media & Professional Profiles
 * [Mastodon](https://mastodon.social/@rayaneb)
