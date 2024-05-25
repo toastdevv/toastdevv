@@ -11,6 +11,8 @@
 ## 🌐 Social Media & Professional Profiles
 * [Mastodon](https://mastodon.social/@rayaneb)
 * [Stack Overflow](https://stackoverflow.com/users/19302208/rayane-benamre)
+* [Instagram](https://www.instagram.com/toastdevv/)
+* [Twitter/X](https://x.com/toastdevv)
 * Discord: toastdevv
 
 Thank you for visiting! 👨‍💻
