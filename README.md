@@ -4,7 +4,7 @@
 
 🤖 Beyond web development, I also engage in Discord bot development and occasional mobile app projects.
 
-🌱 Currently, I am in the process of mastering the Rust programming language.
+🌱 Currently, I am working on personal projects to improve my skills.
 
 📧 Feel free to reach out on Discord (see below!) or via email at `benamrerayane@proton.me`.
 
