@@ -1,4 +1,4 @@
-# Greetings! 👋 I'm Rayane Benamre, a dedicated **full-stack web developer**. 
+# Greetings! 👋 I'm Rayane Benamre, a dedicated **full-stack developer**. 
 
 🚀 Specializing in technologies like the MERN stack, NextJS, and SvelteKit, I focus on crafting efficient solutions. For styling, I prefer using TailwindCSS, and I employ Drizzle or Prisma for robust database queries.
 
